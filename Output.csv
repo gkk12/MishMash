@@ -1,0 +1,10 @@
+Search Term,Boosting,Results
+Shampoos less than 300 rs,Brand Name == Dove,
+Shampoos less than 300 rs,None,
+Adidas,None,
+Biscuits,,
+Chocolate Biscuits,,
+Facial Kit,,
+Gold Massage less than 150 rs,,
+Gold Massage with more than 25% discount,,
+Gold Massage with more than 25% discount and less than 150 rs,,
